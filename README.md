@@ -24,9 +24,9 @@
 
  
 </div>
-
+[comment]: <>(
  ## **Analises:**
 
 - ### **Análises Exploratórias de Dados**
   - [Analisando os dados de violência doméstica](http://www.google.com): Analisando Ocorrências de violência doméstica em Manaus e extraíndo 
-  - [Previsão do Preço das Ações da 3M](http://www.google.com): Durante o curso de Series Temporais na graduação confeccionei um relatório no qual o objetivo era prever o preço fechamento das ações da 3M nos próximos 10 dias. 
+  - [Previsão do Preço das Ações da 3M](http://www.google.com): Durante o curso de Series Temporais na graduação confeccionei um relatório no qual o objetivo era prever o preço fechamento das ações da 3M nos próximos 10 dias. )
