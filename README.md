@@ -11,9 +11,10 @@
   <img align="center" alt="Rstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Datastudio" height="30" width="40" src="https://cdn.cdnlogo.com/logos/g/40/google-data-studio.svg">
   <img align="center" alt="PowerBI" height="30" width="40" src="https://cdn.cdnlogo.com/logos/p/48/power-bi.svg">
+  <img align="center" alt="PBI" height="30" width="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2017/04/power-bi-logo.png">
   <img align="center" alt="DBeaver" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg">
   
-    
+  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
