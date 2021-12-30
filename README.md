@@ -8,9 +8,9 @@
   ## Atualmente trabalho utilizando:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="Datastudio" height="30" width="40"  href="https://www.google.com.br/" src="https://cdn.cdnlogo.com/logos/g/40/google-data-studio.svg">
+  <a href="https://www.google.com.br/" ><img align="center" alt="Datastudio" height="30" width="40" src="https://cdn.cdnlogo.com/logos/g/40/google-data-studio.svg">
   <img align="center" alt="PowerBI" height="30" width="40" src="https://cdn.cdnlogo.com/logos/p/48/power-bi.svg">
-  <img align="center" alt="DBeaver" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg"[www.fdfdf.com]>
+  <img align="center" alt="DBeaver" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg">
   
   
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?width=676&height=676">
