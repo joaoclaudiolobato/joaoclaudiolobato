@@ -25,7 +25,7 @@
  
 </div>
 
-[comment]: <>( ## **Analises:**
+ ## **Analises:**
 
 - ### **Análises Exploratórias de Dados**
   - [Analisando os dados de violência doméstica](http://www.google.com): Analisando Ocorrências de violência doméstica em Manaus e extraíndo 
