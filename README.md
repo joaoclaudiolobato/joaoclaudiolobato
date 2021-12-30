@@ -6,7 +6,7 @@
 </div>
   
   ## Atualmente trabalho utilizando:
-<div style="display: inline_block">## Atualmente trabalho utilizando:<br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Rstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Datastudio" height="30" width="40" src="https://cdn.cdnlogo.com/logos/g/40/google-data-studio.svg">
   <img align="center" alt="PowerBI" height="30" width="40" src="https://cdn.cdnlogo.com/logos/p/48/power-bi.svg">
