@@ -1,4 +1,4 @@
-## Olá! Eu sou a João Claudio Lobato, Graduando em Estatística!
+## Olá! Eu sou o João Claudio Lobato, Graduando em Estatística!
 <div align="center">
   <a href="https://github.com/joaoclaudiolobato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoclaudiolobato&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
