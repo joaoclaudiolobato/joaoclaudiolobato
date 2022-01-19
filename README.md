@@ -1,4 +1,4 @@
-## Olá! Eu sou o João, Graduando em Estatística!
+## Hii! Eu sou o João! :vulcan_salute:
 <div align="center">
   <a href="https://github.com/joaoclaudiolobato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoclaudiolobato&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
@@ -13,7 +13,7 @@
   <a href="https://dbeaver.io/"><img align="center" alt="DBeaver" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg">
 
   
-  <img align="right" alt="coding-gif" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?width=676&height=676">
+  <img align="right" alt="coding-gif" height="200" style="border-radius:50px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?width=676&height=676">
 </div>
   
   ##
