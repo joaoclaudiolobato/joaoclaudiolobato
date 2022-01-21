@@ -1,8 +1,9 @@
 ## Hii! Eu sou o João! :vulcan_salute:
 <div align="center">
-  <a href="https://github.com/joaoclaudiolobato">
+    <img align="right" alt="coding-gif" height="330" style="border-radius:50px;" src="https://user-images.githubusercontent.com/96243345/150603458-863361d7-e268-498e-bee5-4c94c2721e6d.gif?width=676&height=676">
+  <href="https://github.com/joaoclaudiolobato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoclaudiolobato&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudiolobato&langs_count=7&theme=github_dark"/>
+
 </div>
   
   ## Atualmente trabalho utilizando:
@@ -25,3 +26,5 @@
 
  
 </div>
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoclaudiolobato&langs_count=7&theme=github_dark"/>
